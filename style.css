@@ -1,0 +1,150 @@
+body{
+	margin: 0 auto;
+	padding: 0;
+}
+.clear{
+	overflow: hidden;
+}
+.template{
+	width: 960px; margin: 0 auto;
+}
+.headertopsection {
+	background: #ff7070;
+	height: 104px;
+}
+.headertopsection img {
+	width: 223px;
+	height: 53px;
+	float: left;
+	margin-top: 24px;
+	margin-left: 5px;
+}
+.headertopsection a {
+	font-size: 28px;
+	color: #ffa3a3;
+	text-decoration: none;
+	margin-left: 8px;
+}
+.headertopsection p{
+
+}
+.maincontentsection {
+	background: #ffcece;
+}
+.maincontentsection ul{
+
+}
+.maincontentsection ul li {
+	list-style: none;
+	float: left;
+	margin-right: 5px;
+	font-size: 23px;
+	margin-top: -13px;
+	margin-bottom: 6px;
+}
+.maincontentsection ul li a {
+	color: #000;
+	text-decoration: none;
+	padding: 5px;
+	font-size: 26px;
+}
+.maincontentsection ul li a:hover {
+	box-shadow: 0 4px 10px 0 rgba(255, 0, 0, 0.2),0 4px 20px 0 rgba(255, 0, 0, 0.2);
+    background: #21ae9a;	
+}
+.slidersection{
+
+}
+.bodysection {
+	background: #ffa3a3;
+}
+.bodysection h1{
+
+}
+.bodysectionleft {
+	float: left;
+	width: 468px;
+	margin-left: 7px;
+	margin-top: 5px;
+	margin-right: 5px;
+}
+.bodysectionleft img {
+	width: 100px;
+	height: 100px;
+	border-radius: 12px;
+	float: left;
+	margin-right: 11px;
+}
+.bodysectionleft h2{
+
+}
+.bodysectionleft p{
+
+}
+.bodysectionleft a {
+	float: right;
+	text-decoration: none;
+	padding: 5px;
+	color: #f00;
+}
+.bodysectionright {
+	float: right;
+	width: 469px;
+	margin-left: 7px;
+}
+.bodysectionright img {
+	width: 105px;
+	height: 96px;
+	border-radius: 12px;
+}
+.bodysectionright h2{
+
+}
+.bodysectionright p{
+
+}
+.bodysectionright a {
+	float: right;
+	text-decoration: none;
+	padding: 5px;
+	color: #f00;
+}
+.footertopsecton {
+	background: #fc5f5f;
+}
+.footertopsecton h1 {
+	margin-left: 27px;
+	text-shadow: 5px 5px 5px #fff;
+}
+.footerimg {
+	float: left;
+	width: 309px;
+}
+.footerimg h2{
+
+}
+.footerimg img{
+
+}
+.footerimg p {
+	margin: 0 0 10px 0;
+	padding: 0;
+}
+.footerimg a {
+	text-decoration: none;
+	color: #e3a6a6;
+	float: right;
+	margin-right: 20px;
+	margin-bottom: 5px;
+}
+.footersection {
+	background: #997676;
+	text-align: center;
+	color: #fff;
+}
+.footersection p{
+
+}
+.mainpagesection {
+	margin-left: 26px;
+}
